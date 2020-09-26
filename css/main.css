@@ -144,7 +144,7 @@ section{
     max-width: 100%;
 }
 
-.hero{
+.hero {
     background-image: url(/img/hero.jpg);
     height:400px;
     background-size: cover;
