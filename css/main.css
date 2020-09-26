@@ -227,7 +227,7 @@ section{
     margin: 50px 0px;
     position: relative;
 }
-.full-banner:before{
+.full-banner:before {
     content: "";
     position: absolute;
     border: 1px solix #ffffff;
