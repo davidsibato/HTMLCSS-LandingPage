@@ -231,7 +231,7 @@ section{
     content: "";
     position: absolute;
     border: 1px solix #ffffff;
-    top:20px;
+    top:30px;
     bottom: 30px;
     left: 50px;
     right:50px;
@@ -246,7 +246,7 @@ section{
 }
 
 .full-banner-sidebar{
-    float: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
     background-color: #364147;
     text-transform: uppercase;
     padding: 30px;
@@ -262,20 +262,20 @@ section{
 
 .full-banner-sidebar h4:after{
     content:"";
-    width: 100%;
+    width: 100px;
     height: 1px;
     background-color: #faa541;
     margin: 20px auto;
     display: block;
 }
-.full-banner-sidebar > div :nth-last-of-type(1){
+.full-banner-sidebar > div :nth-of-type(1){
     font-size:60px;
     font-weight: 700;
     line-height:1;
 }
 .full-banner-sidebar >div :nth-of-type(2){
-    font-size:60px;
-    font-weight: 700;
+    font-size:25px;
+    font-weight: 200;
     letter-spacing: 3px;
 }
 .full-banner-sidebar .btn.btn-default {
