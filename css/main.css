@@ -97,7 +97,8 @@ section{
 }
 
 .search-box{
-    size: 330x30px;
+    width: 330px;
+    height:30px;
     padding: 6px 12px;
     border: 1px solid #a0a0a0;
 }
@@ -105,7 +106,8 @@ section{
 .search-button{
     background-color: #a0a0a0;
     color: #ffffff;
-    size: 100x30px;
+    width: 100px;
+    height:30px;
     border: 0;
     padding: 0;
 }
