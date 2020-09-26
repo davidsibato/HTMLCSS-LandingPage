@@ -85,8 +85,7 @@ section{
 }
 
 .brand{
-    width: 85px;
-    height: 170px;
+    size: 170x85px;
     margin-left: -15px;
     margin-right: 60px;
 }
