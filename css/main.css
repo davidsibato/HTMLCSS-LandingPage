@@ -329,7 +329,7 @@ footer a:hover{
     width: 23px;
     height: 23px;
     background-size: 23px 23px;
-    position: center;
+    background-position: center;
 }
 .twitter{background-image: url('../img/twitter.svg');}
 .facebook{background-image: url('../img/facebook.svg')}
@@ -366,6 +366,8 @@ footer a:hover{
     padding: 40px 0;
     color: #e5e5e5;
     font-size: 16px;
+}
+.ps img{
     max-width: 230px;
 }
 
